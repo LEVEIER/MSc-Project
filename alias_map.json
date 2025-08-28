@@ -1,0 +1,12 @@
+{
+  "家":"home","home":"home",
+  "医院":"hospital","hospital":"hospital",
+  "学校":"school","school":"school",
+  "市场":"market","超市":"market","market":"market",
+  "商场":"shoppingMall","shopping mall":"shoppingMall","购物中心":"shoppingMall",
+  "办公楼":"office","公司":"office","office":"office",
+  "公司停车场":"officeParking","办公楼停车场":"officeParking","officeparking":"officeParking",
+  "停车场":"parking","停车位":"parking","parking":"parking",
+  "车站":"railway","火车站":"railway","railway":"railway",
+  "高铁":"highspeed","高铁站":"highspeed","highway":"highspeed","highspeed":"highspeed"
+}
