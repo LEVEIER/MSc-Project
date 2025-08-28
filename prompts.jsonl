@@ -1,0 +1,17 @@
+
+
+
+
+
+{"text": "从学校去市场", "gold_start": "school", "gold_end": "market", "tags": ["zh", "standard"]}
+{"text": "学校到医院", "gold_start": "school", "gold_end": "hospital", "tags": ["zh", "standard"]}
+{"text": "带我去商场，从家出发", "gold_start": "home", "gold_end": "shoppingMall", "tags": ["zh", "synonym"]}
+{"text": "嗯…去下火车站吧，我在公司", "gold_start": "office", "gold_end": "railway", "tags": ["zh", "disfluent"]}
+{"text": "从办公楼停车场去学校", "gold_start": "officeParking", "gold_end": "school", "tags": ["zh", "standard"]}
+{"text": "home to market", "gold_start": "home", "gold_end": "market", "tags": ["en", "standard"]}
+{"text": "go to hospital from office", "gold_start": "office", "gold_end": "hospital", "tags": ["en", "standard"]}
+{"text": "shopping mall from parking", "gold_start": "parking", "gold_end": "shoppingMall", "tags": ["en", "synonym"]}
+{"text": "take me to school, I'm at cottage area", "gold_start": "cottageArea", "gold_end": "school", "tags": ["en", "colloquial"]}
+{"text": "从公司去高速", "gold_start": "office", "gold_end": "highspeed", "tags": ["zh", "standard"]}
+{"text": "去医院，从家走", "gold_start": "home", "gold_end": "hospital", "tags": ["zh", "ellipsis"]}
+{"text": "market from SCHOOL", "gold_start": "school", "gold_end": "market", "tags": ["en", "case"]}
