@@ -1,0 +1,1013 @@
+Vehicle location: Location(x=103.462730, y=-37.526943, z=0.001886), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 175.05 meters
+Vehicle location: Location(x=103.204697, y=-38.205021, z=0.001951), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 175.13 meters
+Vehicle location: Location(x=102.948570, y=-38.867943, z=0.001943), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 175.21 meters
+Vehicle location: Location(x=102.677719, y=-39.528740, z=0.001880), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 175.28 meters
+Vehicle location: Location(x=102.379410, y=-40.200417, z=0.001790), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 175.33 meters
+Vehicle location: Location(x=102.066734, y=-40.897034, z=0.001728), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 175.39 meters
+Vehicle location: Location(x=101.738533, y=-41.592720, z=0.001782), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 175.43 meters
+Vehicle location: Location(x=101.399170, y=-42.260933, z=0.001879), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 175.45 meters
+Vehicle location: Location(x=101.046013, y=-42.889675, z=0.001957), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 175.45 meters
+Vehicle location: Location(x=100.680084, y=-43.494316, z=0.001944), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 175.43 meters
+Vehicle location: Location(x=100.312752, y=-44.106838, z=0.001868), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 175.41 meters
+Vehicle location: Location(x=99.924080, y=-44.732288, z=0.001781), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 175.38 meters
+Vehicle location: Location(x=99.508316, y=-45.374405, z=0.001722), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 175.34 meters
+Vehicle location: Location(x=99.088242, y=-46.021629, z=0.001774), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 175.30 meters
+Vehicle location: Location(x=98.667389, y=-46.644009, z=0.001878), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 175.26 meters
+Vehicle location: Location(x=98.245857, y=-47.233391, z=0.001945), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 175.20 meters
+Vehicle location: Location(x=97.830322, y=-47.809952, z=0.001936), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 175.14 meters
+Vehicle location: Location(x=97.400291, y=-48.381874, z=0.001871), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 175.06 meters
+Vehicle location: Location(x=96.940720, y=-48.958427, z=0.001782), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 174.97 meters
+Vehicle location: Location(x=96.461021, y=-49.556068, z=0.001723), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 174.88 meters
+Vehicle location: Location(x=95.967422, y=-50.148350, z=0.001782), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 174.77 meters
+Vehicle location: Location(x=95.470444, y=-50.710453, z=0.001882), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 174.65 meters
+Vehicle location: Location(x=94.970299, y=-51.230419, z=0.001960), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 174.51 meters
+Vehicle location: Location(x=94.464211, y=-51.723408, z=0.001947), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 174.35 meters
+Vehicle location: Location(x=93.955193, y=-52.223167, z=0.001872), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 174.19 meters
+Vehicle location: Location(x=93.422554, y=-52.729755, z=0.001784), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 174.02 meters
+Vehicle location: Location(x=92.859985, y=-53.245956, z=0.001724), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 173.83 meters
+Vehicle location: Location(x=92.291580, y=-53.766556, z=0.001772), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 173.65 meters
+Vehicle location: Location(x=91.728142, y=-54.263241, z=0.001876), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 173.46 meters
+Vehicle location: Location(x=91.172195, y=-54.728142, z=0.001942), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 173.26 meters
+Vehicle location: Location(x=90.625175, y=-55.182323, z=0.001934), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 173.06 meters
+Vehicle location: Location(x=90.065163, y=-55.628475, z=0.001870), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 172.85 meters
+Vehicle location: Location(x=89.475311, y=-56.071701, z=0.001781), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 172.62 meters
+Vehicle location: Location(x=88.860641, y=-56.530315, z=0.001722), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 172.38 meters
+Vehicle location: Location(x=88.234055, y=-56.980183, z=0.001782), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 172.13 meters
+Vehicle location: Location(x=87.611832, y=-57.399815, z=0.001883), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 171.86 meters
+Vehicle location: Location(x=86.997154, y=-57.777714, z=0.001961), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 171.58 meters
+Vehicle location: Location(x=86.383522, y=-58.127869, z=0.001948), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 171.29 meters
+Vehicle location: Location(x=85.765488, y=-58.483700, z=0.001873), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 171.00 meters
+Vehicle location: Location(x=85.122910, y=-58.840092, z=0.001785), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 170.70 meters
+Vehicle location: Location(x=84.449120, y=-59.198460, z=0.001725), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 170.37 meters
+Vehicle location: Location(x=83.768417, y=-59.559715, z=0.001772), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 170.04 meters
+Vehicle location: Location(x=83.098335, y=-59.899067, z=0.001875), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 169.71 meters
+Vehicle location: Location(x=82.443443, y=-60.209629, z=0.001942), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 169.38 meters
+Vehicle location: Location(x=81.799889, y=-60.512089, z=0.001934), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 169.05 meters
+Vehicle location: Location(x=81.145752, y=-60.803509, z=0.001869), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 168.71 meters
+Vehicle location: Location(x=80.463463, y=-61.084583, z=0.001781), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 168.34 meters
+Vehicle location: Location(x=79.753349, y=-61.374290, z=0.001722), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 167.96 meters
+Vehicle location: Location(x=79.033951, y=-61.652512, z=0.001783), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 167.57 meters
+Vehicle location: Location(x=78.326393, y=-61.902538, z=0.001883), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 167.17 meters
+Vehicle location: Location(x=77.636581, y=-62.114033, z=0.001961), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 166.77 meters
+Vehicle location: Location(x=76.954742, y=-62.298935, z=0.001948), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 166.36 meters
+Vehicle location: Location(x=76.267143, y=-62.488205, z=0.001873), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 165.94 meters
+Vehicle location: Location(x=75.555634, y=-62.671833, z=0.001785), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 165.51 meters
+Vehicle location: Location(x=74.813400, y=-62.849613, z=0.001725), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 165.05 meters
+Vehicle location: Location(x=74.063766, y=-63.028442, z=0.001772), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 164.59 meters
+Vehicle location: Location(x=73.329948, y=-63.188709, z=0.001875), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 164.13 meters
+Vehicle location: Location(x=72.618080, y=-63.324917, z=0.001942), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 163.67 meters
+Vehicle location: Location(x=71.919220, y=-63.456142, z=0.001934), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 163.23 meters
+Vehicle location: Location(x=71.212891, y=-63.574020, z=0.001870), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 162.77 meters
+Vehicle location: Location(x=70.482048, y=-63.676941, z=0.001781), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 162.28 meters
+Vehicle location: Location(x=69.721336, y=-63.756130, z=0.001733), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 161.76 meters
+Vehicle location: Location(x=68.953979, y=-63.817097, z=0.001785), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 161.22 meters
+Vehicle location: Location(x=68.206940, y=-63.883358, z=0.001883), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 160.70 meters
+Vehicle location: Location(x=67.486359, y=-63.941044, z=0.001949), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 160.20 meters
+Vehicle location: Location(x=66.779259, y=-63.990124, z=0.001937), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 159.71 meters
+Vehicle location: Location(x=66.065491, y=-64.041313, z=0.001864), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 159.21 meters
+Vehicle location: Location(x=65.328751, y=-64.078308, z=0.001779), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 158.69 meters
+Vehicle location: Location(x=64.563293, y=-64.111519, z=0.001720), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 158.15 meters
+Vehicle location: Location(x=63.791950, y=-64.142326, z=0.001775), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 157.60 meters
+Vehicle location: Location(x=63.040218, y=-64.172356, z=0.001875), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 157.07 meters
+Vehicle location: Location(x=62.314491, y=-64.201218, z=0.001941), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 156.56 meters
+Vehicle location: Location(x=61.604084, y=-64.219254, z=0.001940), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 156.05 meters
+Vehicle location: Location(x=60.285870, y=-64.261406, z=0.001762), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 155.12 meters
+Vehicle location: Location(x=59.482067, y=-64.278999, z=0.001721), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 154.55 meters
+Vehicle location: Location(x=58.567070, y=-64.296753, z=0.001808), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 153.90 meters
+Vehicle location: Location(x=57.787529, y=-64.310974, z=0.001911), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 153.35 meters
+Vehicle location: Location(x=57.023949, y=-64.322639, z=0.001966), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 152.81 meters
+Vehicle location: Location(x=56.197441, y=-64.336113, z=0.001921), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 152.23 meters
+Vehicle location: Location(x=55.389614, y=-64.343002, z=0.001794), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 151.66 meters
+Vehicle location: Location(x=54.538067, y=-64.353439, z=0.001724), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 151.07 meters
+Vehicle location: Location(x=53.595814, y=-64.360504, z=0.001805), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 150.41 meters
+Vehicle location: Location(x=52.773788, y=-64.367241, z=0.001910), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 149.84 meters
+Vehicle location: Location(x=51.913261, y=-64.374893, z=0.001962), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 149.24 meters
+Vehicle location: Location(x=51.115726, y=-64.377647, z=0.001896), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 148.69 meters
+Vehicle location: Location(x=50.378933, y=-64.382370, z=0.001785), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 148.18 meters
+Vehicle location: Location(x=49.435383, y=-64.385788, z=0.001711), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 147.53 meters
+Vehicle location: Location(x=48.556900, y=-64.388336, z=0.001759), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 146.93 meters
+Vehicle location: Location(x=47.662842, y=-64.391945, z=0.001888), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 146.32 meters
+Vehicle location: Location(x=46.819496, y=-64.394249, z=0.001958), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 145.75 meters
+Vehicle location: Location(x=46.070950, y=-64.396530, z=0.001901), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 145.24 meters
+Vehicle location: Location(x=45.178524, y=-64.397987, z=0.001808), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 144.64 meters
+Vehicle location: Location(x=44.274632, y=-64.400261, z=0.001726), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 144.04 meters
+Vehicle location: Location(x=43.439770, y=-64.401360, z=0.001786), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 143.48 meters
+Vehicle location: Location(x=42.845509, y=-64.402084, z=0.001865), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 143.08 meters
+Vehicle location: Location(x=42.119591, y=-64.403419, z=0.001943), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 142.60 meters
+Vehicle location: Location(x=41.413334, y=-64.403961, z=0.001956), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 142.14 meters
+Vehicle location: Location(x=40.708889, y=-64.404594, z=0.001900), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 141.68 meters
+Vehicle location: Location(x=39.986973, y=-64.405495, z=0.001810), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 141.20 meters
+Vehicle location: Location(x=39.237377, y=-64.405792, z=0.001735), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 140.72 meters
+Vehicle location: Location(x=38.467808, y=-64.406265, z=0.001732), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 140.22 meters
+Vehicle location: Location(x=37.705112, y=-64.406654, z=0.001814), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 139.73 meters
+Vehicle location: Location(x=36.964844, y=-64.406883, z=0.001903), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 139.25 meters
+Vehicle location: Location(x=36.250347, y=-64.407219, z=0.001956), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 138.80 meters
+Vehicle location: Location(x=35.549202, y=-64.407318, z=0.001937), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 138.35 meters
+Vehicle location: Location(x=34.839981, y=-64.407433, z=0.001860), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 137.90 meters
+Vehicle location: Location(x=34.106716, y=-64.407616, z=0.001768), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 137.44 meters
+Vehicle location: Location(x=33.343849, y=-64.407570, z=0.001711), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 136.96 meters
+Vehicle location: Location(x=32.573921, y=-64.407578, z=0.001765), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 136.48 meters
+Vehicle location: Location(x=31.822678, y=-64.407562, z=0.001866), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 136.02 meters
+Vehicle location: Location(x=31.097094, y=-64.407486, z=0.001935), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 135.57 meters
+Vehicle location: Location(x=30.387373, y=-64.407448, z=0.001937), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 135.14 meters
+Vehicle location: Location(x=29.675039, y=-64.407394, z=0.001876), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 134.70 meters
+Vehicle location: Location(x=28.942236, y=-64.407234, z=0.001788), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 134.26 meters
+Vehicle location: Location(x=28.181705, y=-64.407104, z=0.001728), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 133.80 meters
+Vehicle location: Location(x=27.414013, y=-64.406937, z=0.001774), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 133.34 meters
+Vehicle location: Location(x=26.664526, y=-64.406754, z=0.001869), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 132.89 meters
+Vehicle location: Location(x=25.940403, y=-64.406609, z=0.001935), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 132.46 meters
+Vehicle location: Location(x=25.230936, y=-64.406403, z=0.001933), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 132.05 meters
+Vehicle location: Location(x=24.516848, y=-64.406197, z=0.001867), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 131.63 meters
+Vehicle location: Location(x=23.780949, y=-64.405998, z=0.001779), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 131.20 meters
+Vehicle location: Location(x=23.016693, y=-64.405746, z=0.001721), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 130.76 meters
+Vehicle location: Location(x=22.246689, y=-64.405510, z=0.001775), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 130.32 meters
+Vehicle location: Location(x=21.496250, y=-64.405266, z=0.001874), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 129.89 meters
+Vehicle location: Location(x=20.771889, y=-64.405029, z=0.001940), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 129.48 meters
+Vehicle location: Location(x=20.062954, y=-64.404785, z=0.001938), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 129.08 meters
+Vehicle location: Location(x=19.350332, y=-64.404533, z=0.001873), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 128.69 meters
+Vehicle location: Location(x=18.616508, y=-64.404282, z=0.001784), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 128.28 meters
+Vehicle location: Location(x=17.854595, y=-64.403999, z=0.001725), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 127.86 meters
+Vehicle location: Location(x=17.086090, y=-64.403709, z=0.001774), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 127.44 meters
+Vehicle location: Location(x=16.336378, y=-64.403435, z=0.001871), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 127.03 meters
+Vehicle location: Location(x=15.612330, y=-64.403145, z=0.001937), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 126.64 meters
+Vehicle location: Location(x=14.903151, y=-64.402863, z=0.001935), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 126.27 meters
+Vehicle location: Location(x=14.189528, y=-64.402611, z=0.001869), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 125.89 meters
+Vehicle location: Location(x=13.454217, y=-64.402321, z=0.001780), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 125.50 meters
+Vehicle location: Location(x=12.690600, y=-64.403015, z=0.001722), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 125.10 meters
+Vehicle location: Location(x=11.921049, y=-64.403313, z=0.001775), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 124.71 meters
+Vehicle location: Location(x=11.170918, y=-64.405586, z=0.001874), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 124.33 meters
+Vehicle location: Location(x=10.446790, y=-64.407501, z=0.001940), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 123.96 meters
+Vehicle location: Location(x=9.737864, y=-64.408501, z=0.001937), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 123.60 meters
+Vehicle location: Location(x=9.024985, y=-64.413712, z=0.001872), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 123.25 meters
+Vehicle location: Location(x=8.290744, y=-64.417610, z=0.001783), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 122.89 meters
+Vehicle location: Location(x=7.528334, y=-64.420509, z=0.001724), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 122.52 meters
+Vehicle location: Location(x=6.759629, y=-64.427872, z=0.001775), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 122.16 meters
+Vehicle location: Location(x=6.009975, y=-64.433937, z=0.001872), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 121.80 meters
+Vehicle location: Location(x=5.286131, y=-64.440163, z=0.001938), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 121.46 meters
+Vehicle location: Location(x=4.577148, y=-64.447311, z=0.001935), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 121.14 meters
+Vehicle location: Location(x=3.863619, y=-64.453819, z=0.001869), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 120.81 meters
+Vehicle location: Location(x=3.128350, y=-64.461334, z=0.001780), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 120.48 meters
+Vehicle location: Location(x=2.364741, y=-64.469238, z=0.001722), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 120.13 meters
+Vehicle location: Location(x=1.595185, y=-64.476921, z=0.001775), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 119.79 meters
+Vehicle location: Location(x=0.845007, y=-64.484711, z=0.001873), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 119.47 meters
+Vehicle location: Location(x=0.120807, y=-64.492271, z=0.001939), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 119.15 meters
+Vehicle location: Location(x=-0.588134, y=-64.499619, z=0.001937), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 118.85 meters
+Vehicle location: Location(x=-1.301018, y=-64.507111, z=0.001872), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 118.55 meters
+Vehicle location: Location(x=-2.035269, y=-64.514801, z=0.001783), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 118.24 meters
+Vehicle location: Location(x=-2.797684, y=-64.522804, z=0.001724), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 117.93 meters
+Vehicle location: Location(x=-3.566471, y=-64.530876, z=0.001775), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 117.62 meters
+Vehicle location: Location(x=-4.316276, y=-64.538734, z=0.001872), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 117.32 meters
+Vehicle location: Location(x=-5.040316, y=-64.546349, z=0.001938), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 117.03 meters
+Vehicle location: Location(x=-5.749381, y=-64.553787, z=0.001936), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 116.75 meters
+Vehicle location: Location(x=-6.462760, y=-64.561279, z=0.001870), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 116.48 meters
+Vehicle location: Location(x=-7.197745, y=-64.569023, z=0.001781), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 116.20 meters
+Vehicle location: Location(x=-7.961001, y=-64.577011, z=0.001723), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 115.91 meters
+Vehicle location: Location(x=-8.730288, y=-64.585075, z=0.001775), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 115.63 meters
+Vehicle location: Location(x=-9.480289, y=-64.592941, z=0.001873), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 115.35 meters
+Vehicle location: Location(x=-10.204369, y=-64.600517, z=0.001939), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 115.10 meters
+Vehicle location: Location(x=-10.913312, y=-64.607956, z=0.001937), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 114.85 meters
+Vehicle location: Location(x=-11.626383, y=-64.615410, z=0.001871), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 114.60 meters
+Vehicle location: Location(x=-12.360946, y=-64.623100, z=0.001782), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 114.35 meters
+Vehicle location: Location(x=-13.123725, y=-64.631081, z=0.001723), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 114.09 meters
+Vehicle location: Location(x=-13.892733, y=-64.639122, z=0.001775), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 113.84 meters
+Vehicle location: Location(x=-14.642631, y=-64.646965, z=0.001872), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 113.60 meters
+Vehicle location: Location(x=-15.366696, y=-64.654533, z=0.001938), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 113.37 meters
+Vehicle location: Location(x=-16.070587, y=-64.661880, z=0.001965), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 113.15 meters
+Vehicle location: Location(x=-16.749493, y=-64.668961, z=0.001992), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 112.94 meters
+Vehicle location: Location(x=-17.404358, y=-64.675797, z=0.002002), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 112.74 meters
+Vehicle location: Location(x=-18.046438, y=-64.682495, z=0.001961), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 112.55 meters
+Vehicle location: Location(x=-18.696852, y=-64.689278, z=0.001872), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 112.36 meters
+Vehicle location: Location(x=-19.371729, y=-64.696327, z=0.001774), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 112.17 meters
+Vehicle location: Location(x=-20.076916, y=-64.703674, z=0.001712), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 111.97 meters
+Vehicle location: Location(x=-20.791586, y=-64.711128, z=0.001757), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 111.78 meters
+Vehicle location: Location(x=-22.055840, y=-64.724312, z=0.001924), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 111.44 meters
+Vehicle location: Location(x=-22.888391, y=-64.732979, z=0.001963), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 111.23 meters
+Vehicle location: Location(x=-23.671625, y=-64.741158, z=0.001879), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 111.03 meters
+Vehicle location: Location(x=-24.510187, y=-64.749893, z=0.001762), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 110.83 meters
+Vehicle location: Location(x=-25.273493, y=-64.757851, z=0.001687), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 110.65 meters
+Vehicle location: Location(x=-26.052317, y=-64.765968, z=0.001768), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 110.47 meters
+Vehicle location: Location(x=-26.863871, y=-64.774429, z=0.001904), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 110.29 meters
+Vehicle location: Location(x=-27.647326, y=-64.782593, z=0.001959), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 110.12 meters
+Vehicle location: Location(x=-28.358599, y=-64.771896, z=0.001912), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 109.95 meters
+Vehicle location: Location(x=-29.081501, y=-64.755623, z=0.001817), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 109.78 meters
+Vehicle location: Location(x=-29.810490, y=-64.753105, z=0.001753), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 109.63 meters
+Vehicle location: Location(x=-30.525000, y=-64.744392, z=0.001741), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 109.47 meters
+Vehicle location: Location(x=-31.351614, y=-64.700142, z=0.001855), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 109.27 meters
+Vehicle location: Location(x=-32.143826, y=-64.639175, z=0.001927), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 109.06 meters
+Vehicle location: Location(x=-32.852119, y=-64.564056, z=0.001937), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 108.86 meters
+Vehicle location: Location(x=-33.545284, y=-64.465317, z=0.001867), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 108.64 meters
+Vehicle location: Location(x=-34.376026, y=-64.341675, z=0.001752), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 108.38 meters
+Vehicle location: Location(x=-35.193985, y=-64.196266, z=0.001721), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 108.11 meters
+Vehicle location: Location(x=-36.008648, y=-63.994751, z=0.001840), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 107.78 meters
+Vehicle location: Location(x=-36.748875, y=-63.772324, z=0.001941), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 107.45 meters
+Vehicle location: Location(x=-37.453011, y=-63.518581, z=0.002002), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 107.10 meters
+Vehicle location: Location(x=-38.091553, y=-63.255650, z=0.001940), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 106.76 meters
+Vehicle location: Location(x=-38.737949, y=-62.978695, z=0.001822), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 106.40 meters
+Vehicle location: Location(x=-39.420189, y=-62.653671, z=0.001752), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 105.99 meters
+Vehicle location: Location(x=-40.068260, y=-62.282124, z=0.001755), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 105.55 meters
+Vehicle location: Location(x=-40.664837, y=-61.860359, z=0.001887), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 105.06 meters
+Vehicle location: Location(x=-41.296829, y=-61.326729, z=0.001964), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 104.46 meters
+Vehicle location: Location(x=-41.805420, y=-60.850063, z=0.001928), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 103.93 meters
+Vehicle location: Location(x=-42.364750, y=-60.248158, z=0.001834), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 103.28 meters
+Vehicle location: Location(x=-42.863262, y=-59.640980, z=0.001747), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 102.63 meters
+Vehicle location: Location(x=-43.324978, y=-59.058262, z=0.001790), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 102.01 meters
+Vehicle location: Location(x=-43.763672, y=-58.462212, z=0.001905), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 101.38 meters
+Vehicle location: Location(x=-44.222469, y=-57.795113, z=0.001957), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 100.68 meters
+Vehicle location: Location(x=-44.628857, y=-57.209602, z=0.001932), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 100.06 meters
+Vehicle location: Location(x=-45.069527, y=-56.549919, z=0.001826), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 99.37 meters
+Vehicle location: Location(x=-45.466080, y=-55.882103, z=0.001735), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 98.68 meters
+Vehicle location: Location(x=-45.840252, y=-55.120403, z=0.001689), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 97.89 meters
+Vehicle location: Location(x=-46.188435, y=-54.279964, z=0.001688), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 97.03 meters
+Vehicle location: Location(x=-46.459633, y=-53.480461, z=0.001832), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 96.22 meters
+Vehicle location: Location(x=-46.662823, y=-52.720657, z=0.001927), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 95.45 meters
+Vehicle location: Location(x=-46.841522, y=-51.985878, z=0.001972), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 94.70 meters
+Vehicle location: Location(x=-46.998676, y=-51.208557, z=0.001929), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 93.92 meters
+Vehicle location: Location(x=-47.126385, y=-50.450829, z=0.001831), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 93.15 meters
+Vehicle location: Location(x=-47.282471, y=-49.574833, z=0.001720), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 92.27 meters
+Vehicle location: Location(x=-47.417049, y=-48.753105, z=0.001730), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 91.44 meters
+Vehicle location: Location(x=-47.544662, y=-47.945980, z=0.001834), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 90.63 meters
+Vehicle location: Location(x=-47.657486, y=-47.155140, z=0.001939), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 89.83 meters
+Vehicle location: Location(x=-47.771011, y=-46.327732, z=0.001986), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 89.00 meters
+Vehicle location: Location(x=-47.879261, y=-45.570095, z=0.001911), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 88.24 meters
+Vehicle location: Location(x=-47.969311, y=-44.805653, z=0.001807), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 87.47 meters
+Vehicle location: Location(x=-48.054081, y=-44.017601, z=0.001739), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 86.68 meters
+Vehicle location: Location(x=-48.128368, y=-43.179180, z=0.001751), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 85.84 meters
+Vehicle location: Location(x=-48.195751, y=-42.301556, z=0.001857), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 84.96 meters
+Vehicle location: Location(x=-48.271343, y=-41.458401, z=0.001933), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 84.11 meters
+Vehicle location: Location(x=-48.329914, y=-40.690239, z=0.001931), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 83.34 meters
+Vehicle location: Location(x=-48.379639, y=-39.867977, z=0.001828), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 82.52 meters
+Vehicle location: Location(x=-48.422367, y=-38.940590, z=0.001709), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 81.59 meters
+Vehicle location: Location(x=-48.464790, y=-38.063175, z=0.001727), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 80.71 meters
+Vehicle location: Location(x=-48.498455, y=-37.222340, z=0.001843), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 79.87 meters
+Vehicle location: Location(x=-48.528606, y=-36.389492, z=0.001951), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 79.04 meters
+Vehicle location: Location(x=-48.557259, y=-35.648014, z=0.001998), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 78.30 meters
+Vehicle location: Location(x=-48.575405, y=-34.897320, z=0.001943), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 77.55 meters
+Vehicle location: Location(x=-48.595589, y=-34.172745, z=0.001834), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 76.82 meters
+Vehicle location: Location(x=-48.621590, y=-33.299320, z=0.001719), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 75.95 meters
+Vehicle location: Location(x=-48.636322, y=-32.433697, z=0.001685), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 75.08 meters
+Vehicle location: Location(x=-48.658363, y=-31.486496, z=0.001812), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 74.14 meters
+Vehicle location: Location(x=-48.674076, y=-30.668625, z=0.001928), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 73.32 meters
+Vehicle location: Location(x=-48.687191, y=-29.841921, z=0.001982), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 72.49 meters
+Vehicle location: Location(x=-48.699677, y=-29.075788, z=0.001923), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 71.73 meters
+Vehicle location: Location(x=-48.712849, y=-28.208031, z=0.001800), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 70.86 meters
+Vehicle location: Location(x=-48.724014, y=-27.463463, z=0.001726), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 70.11 meters
+Vehicle location: Location(x=-48.734688, y=-26.578369, z=0.001703), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 69.23 meters
+Vehicle location: Location(x=-48.747566, y=-25.623520, z=0.001825), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 68.28 meters
+Vehicle location: Location(x=-48.757019, y=-24.786169, z=0.001941), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 67.44 meters
+Vehicle location: Location(x=-48.766304, y=-23.966562, z=0.001995), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 66.62 meters
+Vehicle location: Location(x=-48.775326, y=-23.211147, z=0.001940), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 65.86 meters
+Vehicle location: Location(x=-48.806538, y=-22.402494, z=0.001804), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 65.06 meters
+Vehicle location: Location(x=-48.887817, y=-21.554382, z=0.001742), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 64.20 meters
+Vehicle location: Location(x=-49.025196, y=-20.662031, z=0.001779), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 63.31 meters
+Vehicle location: Location(x=-49.168423, y=-19.870626, z=0.001871), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 62.51 meters
+Vehicle location: Location(x=-49.300442, y=-19.144020, z=0.001933), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 61.78 meters
+Vehicle location: Location(x=-49.475933, y=-18.299267, z=0.001910), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 60.92 meters
+Vehicle location: Location(x=-49.651192, y=-17.530008, z=0.001804), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 60.15 meters
+Vehicle location: Location(x=-49.855469, y=-16.640680, z=0.001740), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 59.25 meters
+Vehicle location: Location(x=-50.050468, y=-15.834315, z=0.001780), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 58.44 meters
+Vehicle location: Location(x=-50.246517, y=-15.045737, z=0.001886), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 57.64 meters
+Vehicle location: Location(x=-50.463989, y=-14.184080, z=0.001959), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 56.78 meters
+Vehicle location: Location(x=-50.643749, y=-13.487253, z=0.001921), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 56.07 meters
+Vehicle location: Location(x=-50.838734, y=-12.658584, z=0.001799), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 55.24 meters
+Vehicle location: Location(x=-51.023060, y=-11.765832, z=0.001724), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 54.34 meters
+Vehicle location: Location(x=-51.188232, y=-10.958518, z=0.001805), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 53.53 meters
+Vehicle location: Location(x=-51.350346, y=-10.180660, z=0.001930), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 52.75 meters
+Vehicle location: Location(x=-51.507698, y=-9.426525, z=0.002028), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 52.00 meters
+Vehicle location: Location(x=-51.655109, y=-8.719995, z=0.002084), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 51.29 meters
+Vehicle location: Location(x=-51.791702, y=-8.065279, z=0.002115), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 50.63 meters
+Vehicle location: Location(x=-51.910110, y=-7.497705, z=0.002186), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 50.06 meters
+Vehicle location: Location(x=-51.984207, y=-7.142574, z=0.002610), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.71 meters
+Vehicle location: Location(x=-51.997784, y=-7.077504, z=0.002926), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.997906, y=-7.076988, z=0.002523), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.997993, y=-7.076596, z=0.002173), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998051, y=-7.076354, z=0.001913), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998074, y=-7.076242, z=0.001874), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998085, y=-7.076190, z=0.001827), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.998230, y=-7.075015, z=0.001508), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.64 meters
+Vehicle location: Location(x=-51.999271, y=-7.062705, z=0.001475), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.63 meters
+Vehicle location: Location(x=-52.002254, y=-7.015043, z=0.001442), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.58 meters
+Vehicle location: Location(x=-52.007893, y=-6.926857, z=0.001414), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.49 meters
+Vehicle location: Location(x=-52.017216, y=-6.790084, z=0.001374), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.36 meters
+Vehicle location: Location(x=-52.031040, y=-6.601777, z=0.001342), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 49.17 meters
+Vehicle location: Location(x=-52.048866, y=-6.365645, z=0.001332), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 48.93 meters
+Vehicle location: Location(x=-52.070457, y=-6.079429, z=0.001319), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 48.64 meters
+Vehicle location: Location(x=-52.082798, y=-5.742366, z=0.001316), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 48.31 meters
+Vehicle location: Location(x=-52.096680, y=-5.354575, z=0.001309), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 47.92 meters
+Vehicle location: Location(x=-52.122997, y=-4.919332, z=0.001314), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 47.48 meters
+Vehicle location: Location(x=-52.140125, y=-4.439422, z=0.001331), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 47.00 meters
+Vehicle location: Location(x=-52.157200, y=-3.920852, z=0.001687), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 46.49 meters
+Vehicle location: Location(x=-52.178333, y=-3.390440, z=0.001770), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 45.96 meters
+Vehicle location: Location(x=-52.196384, y=-2.837711, z=0.001728), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 45.40 meters
+Vehicle location: Location(x=-52.206875, y=-2.247195, z=0.001646), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 44.81 meters
+Vehicle location: Location(x=-52.220955, y=-1.617389, z=0.001605), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 44.18 meters
+Vehicle location: Location(x=-52.231098, y=-0.945464, z=0.001566), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 43.51 meters
+Vehicle location: Location(x=-52.249546, y=0.375917, z=0.001525), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 42.19 meters
+Vehicle location: Location(x=-52.258957, y=1.292570, z=0.001572), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 41.27 meters
+Vehicle location: Location(x=-52.266495, y=2.245246, z=0.001740), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 40.32 meters
+Vehicle location: Location(x=-52.270630, y=3.110015, z=0.001883), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 39.46 meters
+Vehicle location: Location(x=-52.273514, y=3.837579, z=0.001958), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 38.73 meters
+Vehicle location: Location(x=-52.274902, y=4.581031, z=0.001956), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 37.98 meters
+Vehicle location: Location(x=-52.275936, y=5.341216, z=0.001862), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 37.22 meters
+Vehicle location: Location(x=-52.276806, y=6.125251, z=0.001756), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 36.44 meters
+Vehicle location: Location(x=-52.276089, y=7.044139, z=0.001755), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 35.52 meters
+Vehicle location: Location(x=-52.275982, y=7.863920, z=0.001847), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 34.70 meters
+Vehicle location: Location(x=-52.274929, y=8.736606, z=0.001935), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 33.83 meters
+Vehicle location: Location(x=-52.273811, y=9.502447, z=0.001953), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 33.06 meters
+Vehicle location: Location(x=-52.272827, y=10.273949, z=0.001884), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 32.29 meters
+Vehicle location: Location(x=-52.271156, y=11.044204, z=0.001779), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 31.52 meters
+Vehicle location: Location(x=-52.269604, y=11.853541, z=0.001724), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 30.71 meters
+Vehicle location: Location(x=-52.267422, y=12.843453, z=0.001812), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 29.72 meters
+Vehicle location: Location(x=-52.265583, y=13.651203, z=0.001912), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 28.91 meters
+Vehicle location: Location(x=-52.263699, y=14.487864, z=0.001960), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 28.08 meters
+Vehicle location: Location(x=-52.261765, y=15.242830, z=0.001896), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 27.32 meters
+Vehicle location: Location(x=-52.259750, y=16.073345, z=0.001787), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 26.49 meters
+Vehicle location: Location(x=-52.257572, y=16.915926, z=0.001730), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 25.65 meters
+Vehicle location: Location(x=-52.255589, y=17.678671, z=0.001786), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 24.89 meters
+Vehicle location: Location(x=-52.253174, y=18.604347, z=0.001900), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 23.96 meters
+Vehicle location: Location(x=-52.250908, y=19.463198, z=0.001954), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 23.10 meters
+Vehicle location: Location(x=-52.248753, y=20.268314, z=0.001887), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 22.30 meters
+Vehicle location: Location(x=-52.246384, y=21.138496, z=0.001774), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 21.43 meters
+Vehicle location: Location(x=-52.243950, y=22.043644, z=0.001712), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 20.52 meters
+Vehicle location: Location(x=-52.241638, y=22.881516, z=0.001796), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 19.68 meters
+Vehicle location: Location(x=-52.239475, y=23.669367, z=0.001910), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 18.90 meters
+Vehicle location: Location(x=-52.237331, y=24.456528, z=0.001964), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 18.11 meters
+Vehicle location: Location(x=-52.235306, y=25.189569, z=0.001907), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 17.38 meters
+Vehicle location: Location(x=-52.233154, y=25.972008, z=0.001798), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 16.59 meters
+Vehicle location: Location(x=-52.230583, y=26.899715, z=0.001739), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 15.67 meters
+Vehicle location: Location(x=-52.228172, y=27.768703, z=0.001802), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 14.80 meters
+Vehicle location: Location(x=-52.225731, y=28.642458, z=0.001899), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 13.92 meters
+Vehicle location: Location(x=-52.223518, y=29.437704, z=0.001946), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 13.13 meters
+Vehicle location: Location(x=-52.221111, y=30.304688, z=0.001895), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 12.26 meters
+Vehicle location: Location(x=-52.218674, y=31.173866, z=0.001774), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 11.39 meters
+Vehicle location: Location(x=-52.216068, y=32.107594, z=0.001706), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 10.46 meters
+Vehicle location: Location(x=-52.213848, y=32.903759, z=0.001786), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 9.66 meters
+Vehicle location: Location(x=-52.211365, y=33.785191, z=0.001917), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 8.78 meters
+Vehicle location: Location(x=-52.209255, y=34.544205, z=0.001971), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 8.02 meters
+Vehicle location: Location(x=-52.207066, y=35.322628, z=0.001916), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 7.24 meters
+Vehicle location: Location(x=-52.204926, y=36.088333, z=0.001800), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 6.48 meters
+Vehicle location: Location(x=-52.202675, y=36.890732, z=0.001718), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 5.67 meters
+Vehicle location: Location(x=-52.200077, y=37.812935, z=0.001777), goal: Location(x=-52.186733, y=42.565125, z=0.000000)
+Current distance to goal: 4.75 meters
+YYYYYYYYYYYYY---------Vehicle has reached the destination!---------YYYYYYYYYYYYY"
+Navigation completed and resources cleaned up.
+(venv) estherlevi@estherlevi-Dell-G16-7630:~/carla/PythonAPI$ 
